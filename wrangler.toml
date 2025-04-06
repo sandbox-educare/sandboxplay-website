@@ -2,4 +2,4 @@ name = "sandboxplay-website"
 compatibility_date = "2025-04-06"
 
 [assets]
-directory = "."
+directory = "./public"
